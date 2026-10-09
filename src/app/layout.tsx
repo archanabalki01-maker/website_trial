@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Arivom Academic Institute | Admissions Open",
-  description: "Professional academic institution website for Arivom Academic Institute with programs, admissions information, and contact details.",
+  title: "Arivom Academic Institute | Tuition Center",
+  description: "Tuition center website for Arivom Academic Institute with classroom support, coaching, and admissions details.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
